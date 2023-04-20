@@ -6,4 +6,4 @@ Currently, I am working as a Clinical Bioinformatician at [Labor Berlin Charité
 - 💬 Ask me about IVD-R and I might not answer :smile:
 
 ## My GH Stats (incl. contrib to private)
-[![Johannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-highness&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Johannes' GitHub stats](https://github-readme-stats-your-highness.vercel.app/api?username=your-highness&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
